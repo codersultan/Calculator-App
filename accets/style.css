@@ -118,7 +118,7 @@
 
 .active .calculator input {
   background-color: #3a4452;
-  columns: #fff;
+  color: #fff;
 }
 
 .active .output input {
